@@ -1,1 +1,3 @@
 # TopicModeling_HumanitaryLogistics
+This notebook shows how to perform topic modeling on a collection of research papers related to humanitarian operations. The objective is to uncover latent topics present in the documents, which can help to better understand trends, themes, and areas of focus within humanitarian research.
+We will use Latent Dirichlet Allocation (LDA) for topic modeling, a popular technique for discovering abstract topics from a collection of documents. The following steps will guide us through loading the dataset, preprocessing the text, generating topics using LDA, and visualizing the results.
